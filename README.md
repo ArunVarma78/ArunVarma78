@@ -76,7 +76,7 @@ A passionate **Full Stack Developer** from **India** 🌏
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
 </div>
 
-
+<!--
 <br>
 
 <h2 align="center">⚡ My Stats ⚡</h2>
@@ -93,3 +93,4 @@ A passionate **Full Stack Developer** from **India** 🌏
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunVarma78&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
+-->
