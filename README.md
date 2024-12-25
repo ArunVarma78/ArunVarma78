@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-###
-
 <h3> 👋 Hi, I'm Arun Varma </h3>
 
 A passionate **Full Stack Developer** from **India** 🌏
@@ -14,15 +12,13 @@ A passionate **Full Stack Developer** from **India** 🌏
 💻 I love writing clean, efficient code and exploring new technologies.  
 📚 Currently learning how to build **E-Commerce Websites** with **Node.js**.
 
----
+<h2></h2>
 
 ### 📬 Feel free to reach out:  
 - 💬 **Ask me anything** — I’m always happy to help and collaborate.  
 - 📧 **Email**: [arunvarma4873@gmail.com](mailto:arunvarma4873@gmail.com)
 
----
-
-###
+<h2></h2>
 
 <div>
   <a href="https://www.linkedin.com/in/arun-varma-5a3b92259/">
@@ -81,7 +77,7 @@ A passionate **Full Stack Developer** from **India** 🌏
 </div>
 
 
-###
+<br>
 
 <h2 align="center">⚡ My Stats ⚡</h2>
 
