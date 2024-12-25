@@ -10,6 +10,7 @@ A passionate **Full Stack Developer** from **India** 🌏
 
 🎓 Currently pursuing **B.E. in Information Technology** at **Pune University**  
 💻 I love writing clean, efficient code and exploring new technologies.
+
 📚 Currently exploring **full-stack web development** with **Node.js**, **React**, and **MongoDB**.
 
 <h2></h2>
