@@ -6,20 +6,21 @@
 
 ###
 
-<p>
-  Hi, I'm Arun Varma, Full Stack Developer from India
-  <br>
-  🎓 I'm currently studying for my B.E. at Pune University, Department of Information Technology
-  <br>
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with Node.js
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/ArunVarma78/ArunVarma78/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: arunvarma4873@gmail.com">arunvarma4873@gmail.com</a>
-</p>
+<h3> 👋 Hi, I'm Arun Varma </h3>
+
+A passionate **Full Stack Developer** from **India** 🌏
+
+🎓 Currently pursuing **B.E. in Information Technology** at **Pune University**  
+💻 I love writing clean, efficient code and exploring new technologies.  
+📚 Currently learning how to build **E-Commerce Websites** with **Node.js**.
+
+---
+
+### 📬 Feel free to reach out:  
+- 💬 **Ask me anything** — I’m always happy to help and collaborate.  
+- 📧 **Email**: [arunvarma4873@gmail.com](mailto:arunvarma4873@gmail.com)
+
+---
 
 ###
 
