@@ -1,8 +1,9 @@
-<h1 align="left">
-  <a href="https://git.io/typing-svg">
+<img align="right" height="290" src="./images/coding.gif">
+
+
+<a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arun+Varma....;Nice+to+meet+you!&left=true&size=30">
-  </a>
-</h1>
+</a>
 
 <h3> 👋 Hi, I'm Arun Varma </h3>
 
