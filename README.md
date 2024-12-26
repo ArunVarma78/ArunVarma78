@@ -1,5 +1,5 @@
-<img align="right"  height="250" src="./images/coding.gif">
-
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" height="250" src="./images/coding.gif">
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arun+Varma....;Nice+to+meet+you!&left=true&size=30">
