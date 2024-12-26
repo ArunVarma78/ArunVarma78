@@ -1,4 +1,4 @@
-<img align="right" height="290" src="./images/coding.gif">
+<img align="right"  height="250" src="./images/coding.gif">
 
 
 <a href="https://git.io/typing-svg">
