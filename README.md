@@ -1,5 +1,6 @@
 <!-- Title Section -->
 <h1 align="center">Hi👋, I'm Arun Varma</h1>
+
 <p align="center">
   🎓 B.E. IT Student | 💻 Full Stack Developer | DSA Enthusiast
 </p>
@@ -16,7 +17,6 @@
   </a>
 </p>
 
-
 <h2>
     
 ### 📬 Feel free to reach out:  
@@ -25,7 +25,6 @@
 
 <h2>
 
-### 🛠 Skills
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +43,6 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 <h2>
 
